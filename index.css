@@ -1,0 +1,55 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1528722828814-77b9b83aafb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c3BhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60");
+    background-size: cover;
+    background-color: white;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bolder;
+    text-align: center
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.material-symbols-outlined {
+    color: white;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Space Grotesk', sans-serif;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #7978FF;
+    margin-right: 10px;
+    font-family: 'Space Grotesk', sans-serif;
+    text-shadow: black, 2px;
+}
+
+#save-btn {
+    background: #C47AFF;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
